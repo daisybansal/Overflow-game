@@ -55,4 +55,3 @@ Run the game using Python: python game.py
 ## Credits
 
 - Gem images from [OpenGameArt.org by qubodup](https://opengameart.org/content/rotating-crystal-animation-8-step)
-- Licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
