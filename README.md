@@ -29,13 +29,11 @@ Overflow is a turn-based strategy game where:
 ## Installation
 
 1. Clone this repository or download the source code
-2. Install the required Pygame library:  
-      pip install pygame
+2. Install the required Pygame library: pip install pygame
 
 ## How to Run
 
-Run the game using Python:
-   python game.py
+Run the game using Python: python game.py
 
 
 ## How to Play
